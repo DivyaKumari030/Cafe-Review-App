@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@nestjs/mongoose": "^10.0.4",
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "mongoose": "^8.2.4"
+  }
+}
